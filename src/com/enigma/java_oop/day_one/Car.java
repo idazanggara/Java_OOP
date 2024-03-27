@@ -1,4 +1,4 @@
-package com.enigma.java_oop;
+package com.enigma.java_oop.day_one;
 // 4 Pilar OOP (Encapsulation, Inheritance, Polymorphism, Abstraction)
 public class Car {
 

@@ -1,6 +1,6 @@
-package com.enigma.java_oop;
+package com.enigma.java_oop.day_one;
 
-import com.enigma.java_oop.terminal.Console;
+import com.enigma.java_oop.day_one.terminal.Console;
 
 public class Main {
     public static void main(String[] args) {
